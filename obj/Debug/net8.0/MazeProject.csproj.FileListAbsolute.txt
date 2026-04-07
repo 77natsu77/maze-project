@@ -1,0 +1,14 @@
+/home/jomiloju/vs code projects/MazeProject/bin/Debug/net8.0/MazeProject
+/home/jomiloju/vs code projects/MazeProject/bin/Debug/net8.0/MazeProject.deps.json
+/home/jomiloju/vs code projects/MazeProject/bin/Debug/net8.0/MazeProject.runtimeconfig.json
+/home/jomiloju/vs code projects/MazeProject/bin/Debug/net8.0/MazeProject.dll
+/home/jomiloju/vs code projects/MazeProject/bin/Debug/net8.0/MazeProject.pdb
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.AssemblyInfoInputs.cache
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.AssemblyInfo.cs
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.csproj.CoreCompileInputs.cache
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.dll
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/refint/MazeProject.dll
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.pdb
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/MazeProject.genruntimeconfig.cache
+/home/jomiloju/vs code projects/MazeProject/obj/Debug/net8.0/ref/MazeProject.dll
