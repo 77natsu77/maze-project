@@ -73,7 +73,7 @@ Because the maze is an unweighted grid, A\* typically explores **far fewer nodes
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/maze-project.git
+git clone https://github.com/77natsu77/maze-project.git
 cd maze-project
 
 # Run the project
